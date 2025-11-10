@@ -1,0 +1,3 @@
+# copy in powershell
+
+irm "https://christitus.com/win" | iex
